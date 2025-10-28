@@ -5,7 +5,7 @@
 **Music Rights NFT Marketplace** is a blockchain-based platform that empowers artists, producers, and investors to tokenize, trade, and manage music ownership rights securely.
 By leveraging **NFTs (Non-Fungible Tokens)** and **smart contracts**, the platform ensures transparent revenue distribution, proof of ownership, and royalty automation for creators.
 
----
+-
 
 ## 🚀 Features
 
