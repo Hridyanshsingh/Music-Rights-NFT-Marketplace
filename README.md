@@ -103,4 +103,5 @@ Contributions are welcome!
 Please fork the repo and submit a pull request with clear commit messages.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 12 05 17 AM" src="https://github.com/user-attachments/assets/143d1bfd-b999-4ff5-a25b-5c8a86ad9408" />
 
